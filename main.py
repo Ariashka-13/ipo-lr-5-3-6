@@ -1,3 +1,4 @@
+#вариант3
 with open("text.txt", "r") as myfile: #открыть файл для чтения
     text=myfile.read() #чтение текстового файла
 with open("output.txt", 'w') as out_txt: #создать новый текстовый файл
